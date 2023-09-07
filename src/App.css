@@ -1,0 +1,28 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+  #App {
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  #map-container {
+    height: 100%;
+    width: 100%;
+
+}
+}

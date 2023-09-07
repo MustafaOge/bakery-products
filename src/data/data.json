@@ -1,0 +1,198 @@
+{
+  "Header": {
+    "title": "We Reveal the Wonders of Gastronomy",
+    "paragraph": "Discover exquisite pastries at Bakery Products, where every bite is a delightful journey into culinary perfection."
+  },
+  "About": {
+    "paragraph": "Indulge in the world of exquisite pastries with Bakery Products. For 13 years, we've crafted exceptional treats that redefine sweetness. From our iconic croissants to elegant tarts and colorful macarons, our handcrafted delights have garnered global acclaim. Savor the taste of perfection today!",
+    "Why": [
+      "Unparalleled Flavor",
+      "Exceptional Ingredients",
+      "Global Recognition"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Exquisite Variety",
+      "Mouthwatering Creations"
+   
+    ]
+  },
+  
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/g1.jpeg",
+      "smallImage": "img/portfolio/g1.jpeg"
+    },
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g2.jpeg",
+      "smallImage": "img/portfolio/g2.jpeg"
+    },
+ 
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g3.jpeg",
+      "smallImage": "img/portfolio/g3.jpeg"
+    },
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g4.jpeg",
+      "smallImage": "img/portfolio/g4.jpeg"
+    },
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g5.jpeg",
+      "smallImage": "img/portfolio/g5.jpeg"
+    },
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g6.jpeg",
+      "smallImage": "img/portfolio/g6.jpeg"
+    },
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g7.jpeg",
+      "smallImage": "img/portfolio/g7.jpeg"
+    },
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g8.jpg",
+      "smallImage": "img/portfolio/g8.jpg"
+    },
+    {
+      "title": "Bakery Products",
+      "largeImage": "img/portfolio/g9.jpeg",
+      "smallImage": "img/portfolio/g9.jpeg" 
+    }
+    
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-birthday-cake",
+      "name": "Custom Pastry Creations",
+      "text": "Conveniently order your favorite pastries online and have them delivered to your doorstep."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Online Ordering",
+      "text": "Conveniently order your favorite pastries online and have them delivered to your doorstep."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "name": "Wholesale Distribution",
+      "text": "Partner with us to feature our renowned pastries in your restaurant, café, or retail establishment."
+    },
+    {
+      "icon": "fa fa-calendar",
+      "name": "Event Partnerships:",
+      "text": "Collaborate with us to make your event truly unforgettable with our signature pastries."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Bakery Workshops",
+      "text": "Learn the art of pastry-making from our expert chefs through hands-on workshops and classes."
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Pastry Tasting Events: ",
+      "text": "Attend our exclusive tasting events to sample our latest creations and provide feedback."
+    }
+  ],
+  "blog": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  
+  
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"This company never compromises on quality. Their products combine unique flavors and high quality. I highly recommend them!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The variety of their products is truly impressive. You can find flavors to suit every palate. My favorite place to shop, always.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The company's products make fantastic gifts. With their quality packaging, you can surprise your loved ones with something special.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"The freshness and natural ingredients in their products always impress me. It feels like they have something for every taste, and they offer high quality at affordable prices.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"The customer service team provided quick and helpful responses to my inquiries. My order arrived smoothly, and the products were in perfect condition.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"This company always prioritizes customer satisfaction. They stand behind their products and guarantee quality with every order. Thank you!\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    }, 
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Maps": [
+    
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
