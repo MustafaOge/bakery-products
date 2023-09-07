@@ -8,12 +8,7 @@ exports.index = function (_req, res) {
         .then(function (Posts) {
             res.json(
                 Posts
-            //     {
-            //     status: "success",
-            //     message: "Posts retrieved successfully",
-            //     data: Posts 
-                
-            // }
+     
             );
         })
         .catch(function (err) {
